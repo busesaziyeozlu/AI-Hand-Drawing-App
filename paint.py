@@ -109,4 +109,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
-#.\v_env\Scripts\python.exe paint.py çalıştırır
+
